@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sicivort.github.io/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/app/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/assets/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/css/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/data/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/includes/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/item/sitemap.sicivort.gz
+Sitemap: https://sicivort.github.io/src/sitemap.sicivort.gz
